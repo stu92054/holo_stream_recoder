@@ -5,6 +5,7 @@ import download
 import configparser
 from uuid import UUID
 from datetime import datetime
+from threading import Thread
 
 def check_uuid4(test_uuid,version=4):
     try:
@@ -112,6 +113,22 @@ def listen_channel(channel_id,keyword = None):
     search = 0
     archived_live_id = []
     print("檢查頻道是否有新直播中...")
+    search = 1
+    live = searchlive.get_live(channel_id,"1")
+    if live != 0:
+        live_id = live["id"]
+        live_title = live["title"].lower()
+        archived = 0
+    if keyword == None or keyword in live_title:
+        if live_id in archived_live_id:
+            archived = 1
+        if archived == 0:
+            archived_live_id.append(live_id)
+            t = str(int(time.time()))
+            print("download"+live_title)
+            locals()['dlthread'+live_id] = Thread(target = download.download,args=(live_id,))
+            locals()['dlthread'+live_id].start()
+    time.sleep(1)
     while True:
         now_time = datetime.now().strftime('%M%S')
         if now_time == '5500' or now_time == '1000' or now_time == '2500' or now_time == '4000' and search == 0:
@@ -137,7 +154,7 @@ def listen_channel(channel_id,keyword = None):
 
 
 def main():
-    print("vtuber紀錄小幫手 0.1.0-alpha")
+    print("vtuber紀錄小幫手 0.1.1-alpha")
     print("該服務基於Holodex API與yt-dlp所開發，目前僅支援Holodex所收錄的vtuber與剪輯\n\n")
     config = configparser.ConfigParser()
     config.read('config.ini')

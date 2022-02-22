@@ -127,15 +127,15 @@ def listen_channel(channel_id,keyword = None):
         live_id = live["id"]
         live_title = live["title"].lower()
         archived = 0
-    if keyword == None or keyword in live_title:
-        if live_id in archived_live_id:
-            archived = 1
-        if archived == 0:
-            archived_live_id.append(live_id)
-            t = str(int(time.time()))
-            print("download"+live_title)
-            locals()['dlthread'+live_id] = Thread(target = download.download,args=(live_id,))
-            locals()['dlthread'+live_id].start()
+        if keyword == None or keyword in live_title:
+            if live_id in archived_live_id:
+                archived = 1
+            if archived == 0:
+                archived_live_id.append(live_id)
+                t = str(int(time.time()))
+                print("download"+live_title)
+                locals()['dlthread'+live_id] = Thread(target = download.download,args=(live_id,))
+                locals()['dlthread'+live_id].start()
     time.sleep(1)
     while True:
         now_time = datetime.now().strftime('%M%S')
@@ -146,15 +146,15 @@ def listen_channel(channel_id,keyword = None):
                 live_id = live["id"]
                 live_title = live["title"].lower()
                 archived = 0
-            if keyword == None or keyword in live_title:
-                if live_id in archived_live_id:
-                    archived = 1
-                if archived == 0:
-                    archived_live_id.append(live_id)
-                    t = str(int(time.time()))
-                    print("download"+live_title)
-                    locals()['dlthread'+live_id] = Thread(target = download.download,args=(live_id,))
-                    locals()['dlthread'+live_id].start()
+                if keyword == None or keyword in live_title:
+                    if live_id in archived_live_id:
+                        archived = 1
+                    if archived == 0:
+                        archived_live_id.append(live_id)
+                        t = str(int(time.time()))
+                        print("download"+live_title)
+                        locals()['dlthread'+live_id] = Thread(target = download.download,args=(live_id,))
+                        locals()['dlthread'+live_id].start()
             time.sleep(1)
         else:
             search = 0

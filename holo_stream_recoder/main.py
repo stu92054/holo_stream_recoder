@@ -75,6 +75,9 @@ def set_live_id():
             id = id.split('/')[-1]
         elif 'youtube' in id:
             id = id.split('v=')[-1]
+        elif id == "":
+            print("\n請輸入影片或直播網址或ID：\n")
+            continue
         try:
             live = searchlive.get_live_detail(id)
         except:
@@ -95,7 +98,11 @@ def set_channel_id():
         id = input("請輸入頻道網址或ID：")
         if  'youtube' in id:
             id = id.split('/')[-1]
+        elif id == "":
+            print("\n請輸入頻道id\n")
+            continue
         channel = searchlive.get_channel_detail(id)
+        print(channel)
         if channel.get('name', 0) != 0:
             print("您要記錄的頻道為"+channel.get('name', 0))
             return id
@@ -106,6 +113,8 @@ def set_channel_id():
 def set_keyword():
     while True:
         keyword = input("請輸入要記錄的影片或直播關鍵字：")
+        if keyword == "":
+            return None
         return keyword
 
 

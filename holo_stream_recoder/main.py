@@ -112,7 +112,7 @@ def set_channel_id():
 
 def set_keyword():
     while True:
-        keyword = input("請輸入要記錄的影片或直播關鍵字：")
+        keyword = input("請輸入要記錄的影片或直播關鍵字(不分大小寫)：").lower()
         if keyword == "":
             return None
         return keyword
@@ -163,7 +163,7 @@ def listen_channel(channel_id,keyword = None):
 
 
 def main():
-    print("vtuber紀錄小幫手 0.1.1-alpha2")
+    print("vtuber紀錄小幫手 0.1.1-alpha3")
     print("該服務基於Holodex API與yt-dlp所開發，目前僅支援Holodex所收錄的vtuber與剪輯\n\n")
     config = configparser.ConfigParser()
     config.read('config.ini')

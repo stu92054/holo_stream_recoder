@@ -48,7 +48,7 @@ def start(id,status):
 def download(id):
     live_status = searchlive.get_live_status_by_holotools(id)
     if live_status == 0:
-        live_status = searchlive.get_live_statu(id)
+        live_status = searchlive.get_live_status(id)
     if live_status == "new" or live_status == "past":
         start(id,0)
     elif live_status == "upcoming":

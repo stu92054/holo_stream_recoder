@@ -102,7 +102,6 @@ def set_channel_id():
             print("\n請輸入頻道id\n")
             continue
         channel = searchlive.get_channel_detail(id)
-        print(channel)
         if channel.get('name', 0) != 0:
             print("您要記錄的頻道為"+channel.get('name', 0))
             return id

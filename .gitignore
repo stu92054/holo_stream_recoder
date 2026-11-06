@@ -128,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# server runtime data / secrets
+server/secrets.env
+server/archived_id_file.txt

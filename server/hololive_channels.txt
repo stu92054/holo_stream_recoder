@@ -1,0 +1,75 @@
+update_time:1642524545.5722947
+holotools_id,1,name,Mel Channel 夜空メルチャンネル,yt_id,UCD8HOxPs4Xvsm8H0ZxXGiBw,twitter_link,yozoramel
+holotools_id,2,name,Luna Ch. 姫森ルーナ,yt_id,UCa9Y57gfeY0Zro_noHRVrnw,twitter_link,himemoriluna
+holotools_id,3,name,Oga Ch.荒咬オウガ,yt_id,UCwL7dgTxKo8Y4RFIKWaf8gA,twitter_link,aragamioga
+holotools_id,4,name,Korone Ch. 戌神ころね,yt_id,UChAnqc_AY5_I3Px5dig3X1Q,twitter_link,inugamikorone
+holotools_id,5,name,AZKi Channel,yt_id,UC0TXe_LYZ4scaW2XMyi5_kw,twitter_link,AZKi_VDiVA
+holotools_id,6,name,HAACHAMA Ch 赤井はあと,yt_id,UC1CfXB_kRs3C-zaeTG3oGyg,twitter_link,akaihaato
+holotools_id,7,name,Aruran Ch. アルランディス,yt_id,UCKeAhJvy8zgXWbh9duVjIaQ,twitter_link,arurandeisu
+holotools_id,8,name,Kaoru Ch.月下カオル,yt_id,UCsehvfwaWF6nWuFnXI0AqZQ,twitter_link,tsukishitakaoru
+holotools_id,9,name,hololive ホロライブ - VTuber Group,yt_id,UCJFZiqLMntJufDCHc6bQixg,twitter_link,
+holotools_id,10,name,Shion Ch. 紫咲シオン,yt_id,UCXTpFs_3PqI41qX2d9tL2Rw,twitter_link,murasakishionch
+holotools_id,11,name,Mio Channel 大神ミオ,yt_id,UCp-5t9SrOQwXMU7iIjQfARg,twitter_link,ookamimio
+holotools_id,12,name,Miko Ch. さくらみこ,yt_id,UC-hM6YJuNYVAmUWxeIr9FeA,twitter_link,sakuramiko35
+holotools_id,13,name,フブキCh。白上フブキ,yt_id,UCdn5BQ06XqgXoAxIhbqw5Rg,twitter_link,shirakamifubuki
+holotools_id,14,name,Coco Ch. 桐生ココ,yt_id,UCS9uQI-jC3DE0L4IpXyvr6w,twitter_link,kiryucoco
+holotools_id,15,name,HAACHAMA DARKWEB CH,yt_id,UCHj_mh57PVMXhAUDphUQDFA,twitter_link,
+holotools_id,16,name,Temma Ch. 岸堂天真,yt_id,UCGNI4MENvnsymYjKiZwv9eg,twitter_link,kishidotemma
+holotools_id,17,name,Rikka ch.律可,yt_id,UC9mf_ZVpouoILRY9NUIaK-w,twitter_link,rikkaroid
+holotools_id,18,name,Kira Ch. 鏡見キラ,yt_id,UCEzsociuFqVwgZuMaZqaCsg,twitter_link,kagamikirach
+holotools_id,19,name,Airani Iofifteen Channel hololive-ID,yt_id,UCAoy6rzhSf4ydcYjJw3WoVg,twitter_link,airaniiofifteen
+holotools_id,20,name,Roberu Ch. 夕刻ロベル,yt_id,UCANDOlYTJT7N5jlRC3zfzVA,twitter_link,yukokuroberu
+holotools_id,21,name,AkiRose Ch.アキ・ローゼンタールSub,yt_id,UCLbtM3JZfRTg8v2KGag-RMw,twitter_link,
+holotools_id,22,name,Moona Hoshinova hololive-ID,yt_id,UCP0BspO_AMEe3aQqqpo89Dg,twitter_link,moonahoshinova
+holotools_id,23,name,Okayu Ch. 猫又おかゆ,yt_id,UCvaTdHTWBGv3MKj3KVqJVCw,twitter_link,nekomataokayu
+holotools_id,24,name,Matsuri Channel 夏色まつり,yt_id,UCQ0UDLQCjY0rmuxCDE38FGg,twitter_link,natsuiromatsuri
+holotools_id,25,name,Watame Ch. 角巻わため,yt_id,UCqm3BQLlJfvkTsX_hvm0UmA,twitter_link,tsunomakiwatame
+holotools_id,26,name,Noel Ch. 白銀ノエル,yt_id,UCdyqAaZDKHXg4Ahi7VENThQ,twitter_link,shiroganenoel
+holotools_id,27,name,Rushia Ch. 潤羽るしあ,yt_id,UCl_gCybOJRIgOXw6Qb4qJzQ,twitter_link,uruharushia
+holotools_id,28,name,Miyabi Ch. 花咲みやび,yt_id,UC6t3-_N8A6ME1JShZHHqOMw,twitter_link,miyabihanasaki
+holotools_id,29,name,Kanata Ch. 天音かなた,yt_id,UCZlDXzGoo7d44bwdNObFacg,twitter_link,amanekanatach
+holotools_id,30,name,Aqua Ch. 湊あくあ,yt_id,UC1opHUrw8rvnsadT-iGp7Cg,twitter_link,minatoaqua
+holotools_id,31,name,Ayunda Risu Ch. hololive-ID,yt_id,UCOyYb1c43VlX9rc_lT6NKQw,twitter_link,ayunda_risu
+holotools_id,32,name,アキロゼCh。Vtuber/ホロライブ所属,yt_id,UCFTLzh12_nrtzqBPsTCqenA,twitter_link,akirosenthal
+holotools_id,33,name,Nakiri Ayame Ch. 百鬼あやめ,yt_id,UC7fk0CB07ly8oSl0aqKkqFg,twitter_link,nakiriayame
+holotools_id,34,name,Choco Ch. 癒月ちょこ,yt_id,UC1suqwovbL1kzsoaZgFZLKg,twitter_link,yuzukichococh
+holotools_id,35,name,Choco subCh. 癒月ちょこ,yt_id,UCp3tgHXw_HI0QMk1K8qh3gQ,twitter_link,
+holotools_id,36,name,Pekora Ch. 兎田ぺこら,yt_id,UC1DCedRgGHBdm81E1llLhOQ,twitter_link,usadapekora
+holotools_id,37,name,astel ch.アステル,yt_id,UCNVEsYbiZjH5QLmGeSgTSzg,twitter_link,astelleda
+holotools_id,38,name,Flare Ch. 不知火フレア,yt_id,UCvInZx9h3jC2JzsIzoOebWg,twitter_link,shiranuiflare
+holotools_id,39,name,Roboco Ch. - ロボ子,yt_id,UCDqI2jOz0weumE8s7paEk6g,twitter_link,robocosan
+holotools_id,40,name,Shien Ch.影山シエン,yt_id,UChSvpZYRPh0FvG4SJGSga3g,twitter_link,kageyamashien
+holotools_id,41,name,SoraCh. ときのそらチャンネル,yt_id,UCp6993wxpyDPHUpavwDFqgg,twitter_link,tokino_sora
+holotools_id,42,name,Izuru Ch. 奏手イヅル,yt_id,UCZgOv3YDEs-ZnZWDYVwJdmA,twitter_link,kanadeizuru
+holotools_id,43,name,Subaru Ch. 大空スバル,yt_id,UCvzGlP9oQwU--Y0r9id_jnA,twitter_link,oozorasubaru
+holotools_id,44,name,Marine Ch. 宝鐘マリン,yt_id,UCCzUftO8KOVkV4wQG1vkUvg,twitter_link,houshoumarine
+holotools_id,45,name,Towa Ch. 常闇トワ,yt_id,UC1uv2Oq6kNxgATlCiez59hw,twitter_link,tokoyamitowa
+holotools_id,46,name,Suisei Channel,yt_id,UC5CwaMl1eIgY8h02uZw7u8A,twitter_link,suisei_hosimati
+holotools_id,31879,name,Lamy Ch. 雪花ラミィ,yt_id,UCFKOVgVbGmX65RxO3EtH3iw,twitter_link,yukihanalamy
+holotools_id,31880,name,Nene Ch.桃鈴ねね,yt_id,UCAWSyEs_Io8MtpY3m-zqILA,twitter_link,momosuzunene
+holotools_id,31881,name,Botan Ch.獅白ぼたん,yt_id,UCUKD-uaobj9jiqB-VXt71mA,twitter_link,shishirobotan
+holotools_id,31882,name,Aloe Ch.魔乃アロエ,yt_id,UCgZuwn-O7Szh9cAgHqJ6vjw,twitter_link,manoaloe
+holotools_id,31883,name,Polka Ch. 尾丸ポルカ,yt_id,UCK9V2B22uJYu3N7eR_BT9QA,twitter_link,omarupolka
+holotools_id,169380,name,Civia Ch.,yt_id,UCgNVXGlZIFK96XdEY20sVjg,twitter_link,Civia_Hololive
+holotools_id,199073,name,Mori Calliope Ch. hololive-EN,yt_id,UCL_qhgtOy0dy1Agp8vkySQg,twitter_link,moricalliope
+holotools_id,199074,name,Takanashi Kiara Ch. hololive-EN,yt_id,UCHsx4Hqa-1ORjQTh9TYDhww,twitter_link,takanashikiara
+holotools_id,199075,name,Ninomae Ina'nis Ch. hololive-EN,yt_id,UCMwGHR0BTZuLsmjY_NT5Pwg,twitter_link,ninomaeinanis
+holotools_id,199076,name,Gawr Gura Ch. hololive-EN,yt_id,UCoSrY_IQQVpmIRZ9Xf-y93g,twitter_link,gawrgura
+holotools_id,199077,name,Watson Amelia Ch. hololive-EN,yt_id,UCyl1z3jo3XHR1riLFKG5UAg,twitter_link,watsonameliaen
+holotools_id,200275,name,hololive English,yt_id,UCotXwY6s8pWmuWd_snKYjhg,twitter_link,hololive_En
+holotools_id,214950,name,hololive Indonesia,yt_id,UCfrWoRGlawPQDQxxeIDRP0Q,twitter_link,hololive_Id
+holotools_id,214951,name,holostars ホロスターズ - VTuber Group,yt_id,UCWsfcksUUpoEvhia0_ut0bA,twitter_link,holostarstv
+holotools_id,676413,name,Kureiji Ollie Ch. hololive-ID,yt_id,UCYz_5n-uDuChHtLo7My1HnQ,twitter_link,kureijiollie
+holotools_id,676414,name,Anya Melfissa Ch. hololive-ID,yt_id,UC727SQYUvx5pDDGQpTICNWg,twitter_link,anyamelfissa
+holotools_id,676415,name,Pavolia Reine Ch. hololive-ID,yt_id,UChgTyjG-pdNvxxhdsXfHQ5Q,twitter_link,pavoliareine
+holotools_id,2024827,name,IRyS Ch. hololive-EN,yt_id,UC8rcEBzJSleTkf_-agPM20g,twitter_link,irys_en
+holotools_id,2260364,name,Tsukumo Sana Ch. hololive-EN,yt_id,UCsUj0dszADCGbF3gNrQEuSQ,twitter_link,tsukumosana
+holotools_id,2260365,name,Ceres Fauna Ch. hololive-EN,yt_id,UCO_aKKYxn4tvrqPjcTzZ6EQ,twitter_link,ceresfauna
+holotools_id,2260366,name,Ouro Kronii Ch. hololive-EN,yt_id,UCmbs8T6MWqUHP1tIQvSgKrg,twitter_link,ourokronii
+holotools_id,2260367,name,Nanashi Mumei Ch. hololive-EN,yt_id,UC3n5uGu18FoCy23ggWWp8tA,twitter_link,nanashimumei_en
+holotools_id,2260368,name,Hakos Baelz Ch. hololive-EN,yt_id,UCgmPnx-EEeOrZSg5Tiw7ZRQ,twitter_link,hakosbaelz
+holotools_id,2908909,name,Laplus ch. ラプラス・ダークネス - holoX -,yt_id,UCENwRMx5Yh42zWpzURebzTw,twitter_link,LaplusDarknesss
+holotools_id,2908910,name,Lui ch. 鷹嶺ルイ - holoX -,yt_id,UCs9_O1tRPMQTHQ-N_L6FU2g,twitter_link,takanelui
+holotools_id,2908911,name,Koyori ch. 博衣こより - holoX -,yt_id,UC6eWCld0KwmyHFbAqK3V-Rw,twitter_link,hakuikoyori
+holotools_id,2908912,name,Chloe ch. 沙花叉クロヱ - holoX -,yt_id,UCIBY1ollUsauvVi4hW4cumw,twitter_link,sakamatachloe
+holotools_id,2908913,name,Iroha ch. 風真いろは - holoX -,yt_id,UC_vMYWcDjmfdpH6r4TTn1MQ,twitter_link,kazamairohach
